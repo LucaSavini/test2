@@ -1,1 +1,7 @@
 
+Nome : Greg
+tipo menù : Vegan
+primi piatti : spaghetti alle vongole
+secondi piatti : soia, tofu, seitan
+drinks : acqua, ecc...
+Dolci : tiramisù
