@@ -1,1 +1,4 @@
-
+Nome : Greg
+tipo menù : Vegan
+primi piatti : spaghetti alle vongole
+drinks : acqua, ecc...
